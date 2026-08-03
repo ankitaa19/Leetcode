@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ankitaa19/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ankitaa19/Leetcode/tree/master/0322-coin-change) |
+| [2742-painting-the-walls](https://github.com/ankitaa19/Leetcode/tree/master/2742-painting-the-walls) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/ankitaa19/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ankitaa19/Leetcode/tree/master/0322-coin-change) |
+| [2742-painting-the-walls](https://github.com/ankitaa19/Leetcode/tree/master/2742-painting-the-walls) |
 ## Breadth-First Search
 |  |
 | ------- |
