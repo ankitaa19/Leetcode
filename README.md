@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankitaa19/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/ankitaa19/Leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -54,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankitaa19/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/ankitaa19/Leetcode/tree/master/0383-ransom-note) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankitaa19/Leetcode/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ankitaa19/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
